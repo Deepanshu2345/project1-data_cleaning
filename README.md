@@ -35,10 +35,7 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data, 
 | Duplicate rows | 0 | 0 |
 | Invalid pricing rows | 0 | 0 |
 
-## Key Findings
-- The only data quality issue in this dataset was missing `CouponCode` values (~26% of rows), which represent customers who did not use a coupon rather than a data error.
-- No duplicate orders, no formatting errors in dates or text fields, and all pricing calculations were internally consistent.
-- This shows that even a "clean-looking" dataset should always be verified with explicit checks rather than assumed to be correct.
+
 
 ## Files in this Repository
 - `Online-Store-Orders.xlsx` — original raw dataset
@@ -53,4 +50,4 @@ python clean_data.py
 ```
 
 ## Author
-[Your Name] — Data Analytics Intern Project 1
+Deepanshu singh— Data Analytics Intern Project 1
