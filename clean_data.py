@@ -4,7 +4,7 @@ Project 1: Data Cleaning & Preparation
 Goal: Clean a raw e-commerce "Online Store Orders" dataset by handling
 missing values, duplicates, and incorrect/inconsistent data.
 
-Author: [Your Name]
+Author: DEEPANSHU SINGH
 Dataset: Online-Store-Orders.xlsx
 """
 
